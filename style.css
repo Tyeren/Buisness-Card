@@ -1,0 +1,20 @@
+#yourName { font-size: xx-large;
+    color: olivedrab;
+
+}
+#businessName { font-size: large;
+    color: olivedrab;
+
+}
+#box {
+    background-image: url("https://i.ytimg.com/vi/Nv_2Y6-8uO8/maxresdefault.jpg");
+    background-size: cover;
+}
+#email {
+    font-size: large;
+    color: olivedrab;
+}
+#phoneNumber {
+    font-size: large;
+    color: olivedrab;
+}
